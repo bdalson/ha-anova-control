@@ -57,4 +57,4 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [in
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%40oncleben31-blue.svg?style=for-the-badge
 [releases-shield]: https://img.shields.io/github/release/oncleben31/cookiecutter-homeassistant-custom-component-instance.svg?style=for-the-badge
 [releases]: https://github.com/oncleben31/cookiecutter-homeassistant-custom-component-instance/releases
-[user_profile]: https://github.com/oncleben31
+[user_profile]: https://github.com/bdalson

@@ -1,10 +1,10 @@
 {
   "_template": "https://github.com/oncleben31/cookiecutter-homeassistant-custom-component",
-  "class_name_prefix": "CcHaCci",
-  "domain_name": "cc_ha_cci",
-  "friendly_name": "Cookiecutter Home Assistant Custom Component Instance",
-  "github_user": "oncleben31",
-  "project_name": "cookiecutter-homeassistant-custom-component-instance",
-  "test_suite": "yes",
+  "class_name_prefix": "AnovaControl",
+  "domain_name": "anova_control",
+  "friendly_name": "Anova Control",
+  "github_user": "bdalson",
+  "project_name": "anova-control",
+  "test_suite": "no",
   "version": "0.0.0"
 }
